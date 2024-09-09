@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#212529;
+  color: white !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.card{
+  background: rgb(61, 61, 61);
+  border-color: rgb(100, 100, 100);
+  /* box-shadow: 2px 2px 2px 2px rgb(100, 100, 100);; */
 }
