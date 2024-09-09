@@ -26,6 +26,6 @@ Once the application is running, users can:
 - **See Results:** After answering all questions, the user can see their total score and whether they passed or failed.
 - **Restart Quiz:** Restart the quiz with a single click.
 
-🌐 Live Demo
+## 🌐 Live Demo
 You can try out the live version of this Quiz app here: 
 [Project link](https://quiz-app-six-lyart.vercel.app/)
