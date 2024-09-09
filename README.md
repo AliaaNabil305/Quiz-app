@@ -11,7 +11,7 @@ This project is a simple **Quiz Application** built with React. It allows users 
 - **State Management**: Manage quiz questions, answers, and scores centrally using React's Context API.
 - **Reset Quiz**: Option to restart the quiz and try again.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - **React:** A JavaScript library for building user interfaces.
 - **Context API:** Used for global state management to handle quiz data and interactions.
 - **JavaScript (ES6+):** The programming language used throughout the project.
